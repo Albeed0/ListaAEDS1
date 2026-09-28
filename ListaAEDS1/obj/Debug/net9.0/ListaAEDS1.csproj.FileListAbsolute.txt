@@ -1,0 +1,14 @@
+/home/arthyzxs/ListaAEDS1/ListaAEDS1/bin/Debug/net9.0/ListaAEDS1
+/home/arthyzxs/ListaAEDS1/ListaAEDS1/bin/Debug/net9.0/ListaAEDS1.deps.json
+/home/arthyzxs/ListaAEDS1/ListaAEDS1/bin/Debug/net9.0/ListaAEDS1.runtimeconfig.json
+/home/arthyzxs/ListaAEDS1/ListaAEDS1/bin/Debug/net9.0/ListaAEDS1.dll
+/home/arthyzxs/ListaAEDS1/ListaAEDS1/bin/Debug/net9.0/ListaAEDS1.pdb
+/home/arthyzxs/ListaAEDS1/ListaAEDS1/obj/Debug/net9.0/ListaAEDS1.GeneratedMSBuildEditorConfig.editorconfig
+/home/arthyzxs/ListaAEDS1/ListaAEDS1/obj/Debug/net9.0/ListaAEDS1.AssemblyInfoInputs.cache
+/home/arthyzxs/ListaAEDS1/ListaAEDS1/obj/Debug/net9.0/ListaAEDS1.AssemblyInfo.cs
+/home/arthyzxs/ListaAEDS1/ListaAEDS1/obj/Debug/net9.0/ListaAEDS1.csproj.CoreCompileInputs.cache
+/home/arthyzxs/ListaAEDS1/ListaAEDS1/obj/Debug/net9.0/ListaAEDS1.dll
+/home/arthyzxs/ListaAEDS1/ListaAEDS1/obj/Debug/net9.0/refint/ListaAEDS1.dll
+/home/arthyzxs/ListaAEDS1/ListaAEDS1/obj/Debug/net9.0/ListaAEDS1.pdb
+/home/arthyzxs/ListaAEDS1/ListaAEDS1/obj/Debug/net9.0/ListaAEDS1.genruntimeconfig.cache
+/home/arthyzxs/ListaAEDS1/ListaAEDS1/obj/Debug/net9.0/ref/ListaAEDS1.dll
